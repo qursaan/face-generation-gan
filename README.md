@@ -1,9 +1,9 @@
 # Face Generation Using CycleGAN method
 
-![CycleGan Model](im/CycleGan.png)**Model**
+![CycleGan Model](im/CycleGan.png)
 
 
-![Discriminator](im/discriminator_layers.png)**Model**
+![Discriminator](im/discriminator_layers.png)
 
 ## Random Noise
 ![Random](im/cyclegan_inputX-Y.png)
