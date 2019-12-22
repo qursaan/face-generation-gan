@@ -3,7 +3,7 @@
 ![CycleGan Model](im/CycleGan.png)**Model**
 
 
-![Discriminator](im/discriminator.png)**Model**
+![Discriminator](im/discriminator_layers.png)**Model**
 
 ## Random Noise
 ![Random](im/cyclegan_inputX-Y.png)
